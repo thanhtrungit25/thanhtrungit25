@@ -4,7 +4,7 @@ Hi, I'm Trung DG, a passionate self-taught Full Stack web developer. My passion 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<h3>Open source projects</h3>
+<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
