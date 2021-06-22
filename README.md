@@ -58,8 +58,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```text
 JSX          33 hrs 33 mins  ████████████████████████░   95.93 % 
 JavaScript   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-HTML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+NextJS       2 hours         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   62.61 % 
+Typescript   3 hours         ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   20.18 % 
+GraphQL      2 hours         ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   23.18 % 
 ```
 <!--END_SECTION:waka-->
 
